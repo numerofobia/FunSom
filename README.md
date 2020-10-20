@@ -1,2 +1,3 @@
-# FunSom
+# FunSom - Sonificação de Funções Matemáticas
+
  
