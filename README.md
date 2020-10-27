@@ -37,7 +37,7 @@ Pronto.
 
 ## Agradecimentos
 
-Esta ferramenta foi desenvolvida, testada e validada sob financiamento da Fundação Araucária e CAPES. 
+Esta ferramenta foi desenvolvida, testada e validada sob financiamento da Fundação Araucária e CAPES. E Co-desenvolvida na Universidade Tecnológica Federal do Paraná - Campus Ponta Grossa.
 
 ## Copyrights
 
