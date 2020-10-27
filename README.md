@@ -1,6 +1,10 @@
 # FunSom - Sonificação de Funções Matemáticas
 
-O Software, FunSom, foi projetado para servir de apoio didático a professores que desejam ensinar gráficos de funções matemática para alunos com deficiência visual. 
+O Software, FunSom, foi projetado para servir de apoio didático a professores que desejam ensinar gráficos de funções matemáticas para alunos com deficiência visual. Estão implementadas no Software até o momento:
+* Função Afim
+* Função Quadrática
+* Função Seno
+* Função Exponencial
 
 ## Instalação
 
@@ -23,7 +27,7 @@ Abra o terminal de comando dentro da pasta e digite o seguinte comando
 pip install requirements.txt
 ```
 
-## Uso
+## Utilização
 
 Após instalar as bibliotecas necessárias, basta digitar o seguinte comando no console:
 ```
