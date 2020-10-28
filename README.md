@@ -24,7 +24,7 @@ Após seguir os passos acima, crie uma pasta em seu ambiente de trabalho e baixe
 Abra o terminal de comando dentro da pasta e digite o seguinte comando
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Utilização
