@@ -1,6 +1,10 @@
-import music21 as mu21
+from music21 import *
+from pylab import *
 import tkinter as tk
 from tkinter import ttk
+import matplotlib.pyplot as plt
+import pygame
+import music21 as mu21
 
 win = tk.Tk()
 
@@ -60,18 +64,19 @@ def toca_exp():
 ttk.Label(win, text = "FUNSOM").grid(column = 0, row = 0)
 
 #Adicionando Botoes
-action = ttk.Button(win, text = 'Funcao Afim', command = toca_afim)
+action = ttk.Button(win, text = 'Função Afim', command = toca_afim)
 action.grid(column = 0, row = 1)
 
-action1 = ttk.Button(win, text = 'Funcao Quadratica', command = toca_quad)
+action1 = ttk.Button(win, text = 'Função Quadrática', command = toca_quad)
 action1.grid(column = 0, row = 2)
 
-action2 = ttk.Button(win, text = 'Funcao Trigonometrica', command = toca_sin)
+action2 = ttk.Button(win, text = 'Função Trigonométrica', command = toca_sin)
 action2.grid(column = 0, row = 3)
 
-action3 = ttk.Button(win, text = 'Funcao Exponencial', command = toca_exp)
+action3 = ttk.Button(win, text = 'Função Exponencial', command = toca_exp)
 action3.grid(column = 0, row = 4)
 
 #stream.show()
 win.mainloop()
+
 
